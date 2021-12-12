@@ -1,0 +1,9 @@
+.item-data-container {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+  list-style: none;
+}

@@ -1,0 +1,29 @@
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+.image-container {
+  display: block;
+  margin: auto;
+}
+
+.text-container {
+  margin: 10px;
+  text-align: center;
+}
+
+.image {
+  vertical-align: middle;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
